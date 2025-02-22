@@ -12,7 +12,7 @@ const images = [
     { path: "/img/f2.jpeg", text: "Мала гарний аппетит " },
     { path: "/img/f3.jpeg", text: "Завжди була в гарній компанії " },
     { path: "/img/f03.jpeg", text: "Чудово виглядала" },
-    { path: "/img/f5.jpeg", text: "І мала найкращю сімʼю" },
+    { path: "/img/f5.jpeg", text: "Завжди могла знайти підтримку в нашій маленькій сімʼї" },
 ];
 
 const ImageDisplay = ({ index, onClick }) => (
