@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import "./GiftScene.css";
 
 const images = [
-    { path: "/img/f06.jpeg", text: "Вітаємо з свʼятом і хочемо побажати" },
+    { path: "/img/f06.jpeg", text: "Вітаємо зі святом і хочемо побажати" },
     { path: "/img/f05.jpeg", text: "Щоб кожна проблему зустрічала з посмішкою" },
     // { path: "/img/f05.jpeg", text: "Щоб кожна проблему зустрічала з посмішкою" },
     { path: "/img/f04.jpeg", text: "Кожен ранок був чудовий" },
