@@ -7,7 +7,7 @@ const images = [
     // { path: "/img/f05.jpeg", text: "Щоб кожна проблему зустрічала з посмішкою" },
     { path: "/img/f04.jpeg", text: "Кожен ранок був чудовий" },
     { path: "/img/f01.jpeg", text: "Легко вчилась сама" },
-    { path: "/img/f6.jpeg", text: "І прикладом для інших" },
+    { path: "/img/f6.jpeg", text: "І була прикладом для інших" },
     { path: "/img/f02.jpeg", text: "Завжди досягала своїх цілей" },
     { path: "/img/f2.jpeg", text: "Мала гарний аппетит " },
     { path: "/img/f3.jpeg", text: "Завжди була в гарній компанії " },
